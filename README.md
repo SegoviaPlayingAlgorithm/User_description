@@ -27,30 +27,44 @@ Kmeans使用肘图选择合适的K，K=15为最佳
 详细的分析结果储存在用户画像.txt中
 ---------------------------------------------------
 簇号==0,价值为2652.327869,属于高价值用户
+
+
+
 属性Gender的分布情况如下
+
 值为Male的有55.737705%
+
 值为Female的有44.262295%
 
 
 属性Location的分布情况如下
+
 值为Suburban的有100.000000%
 
 
 属性Interests的分布情况如下
+
 值为Sports的有100.000000%
 
 
 属性Product_Category_Preference的分布情况如下
+
 值为Books的有16.393443%
+
 值为Apparel的有26.229508%
+
 值为Health & Beauty的有18.032787%
+
 值为Home & Kitchen的有14.754098%
+
 值为Electronics的有24.590164%
 
 
 属性Newsletter_Subscription的分布情况如下
+
 值为True的有50.819672%
+
 值为False的有49.180328%
----------------------------------------------------
+
 
 ![用户画像_展示](https://github.com/user-attachments/assets/19752a92-1384-4d0e-8d28-8559788000fd)
